@@ -1,0 +1,29 @@
+body{
+    background-color: bisque;
+}
+
+header{
+    text-align: center;
+}
+
+.part1{
+    background-color: rgb(109, 152, 152);
+    border-radius: 10%;
+    width: 600px;
+    height: 300px;
+    display: block;
+    margin: auto;
+    p{
+        background-color: rgb(109, 152, 152);
+        margin: 0 80px 0 80px; /* top right bottom left, for text align (without width and height in segment)*/
+        text-align: start;
+        text-indent: 20px;
+    }
+    img{
+        float: right; 
+        width: 240px; 
+        height: 150px; 
+        border-radius: 10%;
+        margin-left: 15px;
+    }
+}
