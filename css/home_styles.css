@@ -9,8 +9,8 @@ header{
 .part1{
     background-color: rgb(109, 152, 152);
     border-radius: 10%;
-    width: 600px;
-    height: 300px;
+    width: 800px;
+    height: 500px;
     display: block;
     margin: auto;
     p{
@@ -21,8 +21,8 @@ header{
     }
     img{
         float: right; 
-        width: 240px; 
-        height: 150px; 
+        width: 340px; 
+        height: 250px; 
         border-radius: 10%;
         margin-left: 15px;
     }
