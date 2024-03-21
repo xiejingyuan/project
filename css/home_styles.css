@@ -6,23 +6,23 @@ header{
     text-align: center;
 }
 
-.part1{
-    background-color: rgb(109, 152, 152);
-    border-radius: 10%;
-    width: 800px;
-    height: 500px;
-    display: block;
-    margin: auto;
+div{
+    text-align: center;
     p{
-        background-color: rgb(109, 152, 152);
-        margin: 0 80px 0 80px; /* top right bottom left, for text align (without width and height in segment)*/
+        background-color: rgb(210, 180, 147);
+        width: 440px;
+        height: 220px;
+        margin: 20px 30px 20px 30px; /* top right bottom left, for box align (with width and height in segment)*/
+        padding: 40px 30px 40px 30px; /* top right bottom left, for text align*/
         text-align: start;
         text-indent: 20px;
+        display: inline-block;
+        border-radius: 5%;
     }
     img{
         float: right; 
-        width: 340px; 
-        height: 250px; 
+        width: 240px; 
+        height: 150px; 
         border-radius: 10%;
         margin-left: 15px;
     }
