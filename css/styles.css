@@ -1,0 +1,30 @@
+body{
+    background-color: bisque;
+    text-align: center;
+}
+
+nav{
+    background-color:rgb(165, 97, 42); 
+    height: 30px;
+}
+
+li{
+    display: inline;
+    margin: 50px;
+}
+
+a{
+    color:aliceblue;
+}
+
+main{
+    display: flex;
+}
+main section {
+	width: 60%;
+}
+main aside {
+	width: 40%;
+}
+
+

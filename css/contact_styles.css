@@ -1,0 +1,47 @@
+body{
+    background-color: bisque;
+}
+
+header{
+    text-align: center;
+}
+
+table, th, td {
+    border:1px solid black;
+  }
+
+table{
+    background-color: beige;
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+th{
+    width: 100px;
+}
+
+footer{
+    text-align: center;
+}
+
+.part1{
+    background-color:rgb(246, 194, 138);
+    text-align: center;
+    width:1200px;
+    height: 120px;
+    padding: 10px;
+    margin: auto;
+   
+}
+
+.part2{
+    background-color:rgb(246, 194, 138);
+    text-align: center;
+    width:1200px;
+    height: 120px;
+    padding: 10px;
+    margin: auto;
+   
+}
