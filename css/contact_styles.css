@@ -24,6 +24,8 @@ th{
 
 footer{
     text-align: center;
+    position: relative;
+    top: 200px;
 }
 
 .part1{
